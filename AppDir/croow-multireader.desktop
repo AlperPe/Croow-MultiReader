@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Croow MultiReader
+Comment=PDF ve resimlerdeki yazıyı okur · CRW resimlerini açar ve detaylandırır
+Exec=CroowMultiReader %f
+Icon=croow-multireader
+Terminal=false
+Categories=Utility;Viewer;Graphics;
+MimeType=application/x-croow-crw;application/pdf;image/png;image/jpeg;image/webp;image/bmp;image/tiff;

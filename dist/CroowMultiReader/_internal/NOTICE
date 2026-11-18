@@ -1,0 +1,31 @@
+Croow MultiReader
+Copyright (C) 2026  Alper Pektas
+https://github.com/AlperPe/Croow-MultiReader
+
+Bu program özgür yazılımdır: GNU Affero Genel Kamu Lisansı sürüm 3
+(GNU AGPLv3) koşulları altında yeniden dağıtabilir ve/veya değiştirebilirsiniz.
+Lisansın tam metni LICENSE dosyasındadır.
+
+AGPLv3 Madde 7 uyarınca EK KOŞULLAR
+-----------------------------------
+(b) Yazar bildiriminin korunması: Bu programın ya da ondan türetilen her
+    çalışmanın; kaynak kodunda, dağıtılan her kopyasında, belgelerinde ve
+    kullanıcıya gösterilen arayüzünde (uygulama ve web sitesi dahil) şu
+    bildirim görünür ve okunaklı biçimde korunmalıdır:
+
+        "Croow — Alper Pektas tarafından geliştirilmiştir."
+
+(c) Değiştirilmiş sürümler orijinal Croow olarak sunulamaz; değiştirildikleri
+    açıkça belirtilmelidir.
+
+(d) "Croow" ve "Croow MultiReader" adları ile Alper Pektas adı, yazarın yazılı izni
+    olmadan türetilmiş çalışmaların tanıtımında ya da onaylanmış gibi
+    gösterilmesinde kullanılamaz.
+
+Ağ üzerinden kullanım (AGPLv3 Madde 13): Bu programı ya da değiştirilmiş bir
+sürümünü bir ağ hizmeti olarak (örneğin bir web sitesinde) kullanıcılara
+sunan herkes, o kullanıcılara çalıştırdığı sürümün tam kaynak kodunu
+sunmak zorundadır.
+
+Eğitilmiş hafıza dosyaları (*.crwm) bu depoda yer almaz ve bu lisansın
+kapsamında dağıtılmaz.
